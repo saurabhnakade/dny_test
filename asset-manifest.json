@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dny_test/static/css/main.2c7bd186.css",
+    "main.js": "/dny_test/static/js/main.50f558f1.js",
+    "index.html": "/dny_test/index.html",
+    "main.2c7bd186.css.map": "/dny_test/static/css/main.2c7bd186.css.map",
+    "main.50f558f1.js.map": "/dny_test/static/js/main.50f558f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c7bd186.css",
+    "static/js/main.50f558f1.js"
+  ]
+}
